@@ -32,11 +32,44 @@ feature:
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
-  enable: false
+  enable: true
   service_item:
+  - title: Physical and numerical modelling
+    images: ''
+    content: |-
+      EC COASTAL supervises numerical and physical
+      modelling campaigns on behalf of their client and
+      report to them through result focused method
+      statements and reports highlighting the detailed
+      repercutions for their projects.
+    button: ''
+  - title: Sediment transport assessment
+    images: ''
+    content: |-
+      EC COASTAL studies sediment movements and the
+      resulting morphological evolutions in estuarine and
+      open coast environments through careful analysis of
+      past metocean and sedimentological records.
+    button: ''
+  - title: Integrated coastal zone management
+    images: ''
+    content: |-
+      EC COASTAL develops detailed coastal management
+      programmes for the public authorities including
+      stakeholders consultations, the production of
+      survey/ maintenance documentation and training.
+    button: ''
+  - title: Marinas and breakwater
+    images: ''
+    content: |-
+      EC COASTAL develops the layout of marinas and
+      breakwaters with respect to navigational and
+      berthing requirements while minimising their impact
+      to neighbouring sites.
+    button: ''
   - title: Coastal protections
     images:
-    - Sea
+    - images/sea.png
     content: |-
       EC COASTAL designs shore protections, breakwaters
       and scour protections using rocks, geotubes or
@@ -44,56 +77,6 @@ service:
       scale nature based solutions including sediment
       retention structures and sand engines.
     button: ''
-  - title: It is the most advanced digital marketing and it company.
-    images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: It is a privately owned Information and cyber security company
-    images:
-    - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
-    images:
-    - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
