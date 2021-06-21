@@ -13,7 +13,7 @@ banner:
     label: Contact With Us
     link: contact
 feature:
-  enable: false
+  enable: true
   title: Projects we can assist with
   feature_item:
   - name: Marina and port developments
