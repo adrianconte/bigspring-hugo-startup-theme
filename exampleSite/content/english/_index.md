@@ -1,10 +1,13 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
-  image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  title: Welcome
+  image: images/sea.png
+  content: "EC COASTAL is a unique coastal engineering consulting company operating
+    in the Asia-Pacific region. We provide innovative engineering solutions for every
+    stage of your project from assessment and planning, through to design and construction.
+    At EC COASTAL, we have a strong track record of managing and working on challenging
+    projects, for which coastal engineering is at its core. \nWe bring reliability,
+    quality and value to any coastal project."
   button:
     enable: false
     label: Contact With Us
