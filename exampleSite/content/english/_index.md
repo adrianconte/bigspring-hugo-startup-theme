@@ -100,3 +100,6 @@ call_to_action:
     link: contact
 
 ---
+EC COASTAL is a unique coastal engineering consulting company operating in the Asia-Pacific region. We provide innovative engineering solutions for every stage of your project from assessment and planning, through to design and construction. At EC COASTAL, we have a strong track record of managing and working on challenging projects, for which coastal engineering is at its core. 
+
+We bring reliability, quality and value to any coastal project.
