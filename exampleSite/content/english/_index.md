@@ -89,10 +89,9 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: ''
+  title: Contact us
   image: ''
   content: |-
-    Contact us
     info@ec-coastal.com
     (+61) 04 3191 9493
   button:
