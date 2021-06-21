@@ -83,10 +83,6 @@ service:
       scale nature based solutions including sediment
       retention structures and sand engines.
     button: ''
-screenshot:
-  enable: true
-  title: Experience the best <br> workflow with us
-  image: images/screenshot.svg
 call_to_action:
   enable: true
   title: Contact us
@@ -98,7 +94,11 @@ call_to_action:
     enable: true
     label: Contact Us
     link: contact
-
+content_area:
+  enable: true
+  title: more content
+  content: |-
+      stuff goes here.
 ---
 EC COASTAL is a unique coastal engineering consulting company operating in the Asia-Pacific region. We provide innovative engineering solutions for every stage of your project from assessment and planning, through to design and construction. At EC COASTAL, we have a strong track record of managing and working on challenging projects, for which coastal engineering is at its core. 
 
