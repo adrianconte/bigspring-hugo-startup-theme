@@ -1,14 +1,10 @@
-############################# English ############################
 [en]
+contentDir = "content/english"
+copyright = ""
+footer_content = "info@eccoastal.com"
+footer_menu_left = ""
+footer_menu_middle = ""
+footer_menu_right = ""
 languageName = "En"
 title = "EC Coastal"
-contentDir = "content/english" # content/english
 weight = 1
-########### footer content ##########
-footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
-footer_content = "info@eccoastal.com"
-# copyright
-copyright = ""
-
