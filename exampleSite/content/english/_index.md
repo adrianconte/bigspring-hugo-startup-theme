@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Welcome
-  image: images/sea.png
+  title: ''
+  image: ''
   content: "EC COASTAL is a unique coastal engineering consulting company operating
     in the Asia-Pacific region. We provide innovative engineering solutions for every
     stage of your project from assessment and planning, through to design and construction.
