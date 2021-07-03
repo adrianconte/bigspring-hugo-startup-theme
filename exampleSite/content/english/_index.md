@@ -41,7 +41,7 @@ service:
   enable: true
   service_item:
   - title: Physical and numerical modelling
-    images: images/sea.png
+    images: images/analysis.jpg
     content: |-
       EC COASTAL supervises numerical and physical
       modelling campaigns on behalf of their client and
@@ -50,7 +50,7 @@ service:
       repercutions for their projects.
     button: ''
   - title: Sediment transport assessment
-    images: images/sea.png
+    images: images/sand.jpg
     content: |-
       EC COASTAL studies sediment movements and the
       resulting morphological evolutions in estuarine and
@@ -58,7 +58,7 @@ service:
       past metocean and sedimentological records.
     button: ''
   - title: Integrated coastal zone management
-    images: images/sea.png
+    images: images/fence.jpg
     content: |-
       EC COASTAL develops detailed coastal management
       programmes for the public authorities including
@@ -66,7 +66,7 @@ service:
       survey/ maintenance documentation and training.
     button: ''
   - title: Marinas and breakwater
-    images: images/sea.png
+    images: images/harbour.jpg
     content: |-
       EC COASTAL develops the layout of marinas and
       breakwaters with respect to navigational and
@@ -75,7 +75,7 @@ service:
     button: ''
   - title: Coastal protections
     images:
-    - images/sea.png
+    - images/ocean.jpg
     content: |-
       EC COASTAL designs shore protections, breakwaters
       and scour protections using rocks, geotubes or
