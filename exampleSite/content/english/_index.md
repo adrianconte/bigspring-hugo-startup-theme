@@ -74,8 +74,7 @@ service:
       to neighbouring sites.
     button: ''
   - title: Coastal protections
-    images:
-    - images/ocean.jpg
+    images: images/ocean.jpg
     content: |-
       EC COASTAL designs shore protections, breakwaters
       and scour protections using rocks, geotubes or
@@ -84,7 +83,7 @@ service:
       retention structures and sand engines.
     button: ''
 call_to_action:
-  enable: true
+  enable: false
   title: Contact us
   image: ''
   content: |-
