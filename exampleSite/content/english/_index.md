@@ -25,16 +25,13 @@ feature:
   - name: Coastal management plans
     icon: ''
     content: ''
-  - name: Breakwater, groyne or revetment structures
-    icon: ''
-    content: ''
   - name: Sediment transport assessments
     icon: ''
     content: ''
-  - name: Seafront developments
+  - name: Breakwater, groyne or revetment structures
     icon: ''
     content: ''
-  - name: Beach nourishments
+  - name: Seafront developments
     icon: ''
     content: ''
 service:
