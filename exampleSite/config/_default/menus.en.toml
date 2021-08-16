@@ -1,15 +1,15 @@
 footer_left = []
 footer_middle = []
 footer_right = []
-[[main]]
-name = "Home"
-url = "/"
-weight = 1
-[[main]]
-name = "Services"
-url = "#blog"
-weight = 2
-[[main]]
-name = "About Us"
-url = "#about us"
-weight = 5
+# [[main]]
+# name = "Home"
+# url = "/"
+# weight = 1
+# [[main]]
+# name = "Services"
+# url = "#services"
+# weight = 2
+# [[main]]
+# name = "About Us"
+# url = "#about us"
+# weight = 5
