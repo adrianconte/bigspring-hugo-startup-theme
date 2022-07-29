@@ -13,34 +13,34 @@ AUTHOR WEBSITE: https://gethugothemes.com
 <head>
 	{{ partial "head.html" . }}
 
-	{{ if hugo.IsProduction }}
+<!-- 	{{ if hugo.IsProduction }}
 	{{ partialCached "style.html" . }}
-	{{ else }}
+	{{ else }} -->
 	{{ partial "style.html" . }}
-	{{ end }}
+<!-- 	{{ end }} -->
 </head>
 
 <body>
 
-	{{ if hugo.IsProduction }}
+<!-- 	{{ if hugo.IsProduction }}
 	{{ partialCached "preloader.html" . }}
 	{{ partialCached "header.html" . }}
-	{{ else }}
+	{{ else }} -->
 	{{ partial "preloader.html" . }}
 	{{ partial "header.html" . }}
-	{{ end }}
+<!-- 	{{ end }} -->
 
 	<main>
 		{{ block "main" . }}{{ end }}
 	</main>
 
-	{{ if hugo.IsProduction }}
+<!-- 	{{ if hugo.IsProduction }}
 	{{ partialCached "footer.html" . }}
 	{{ partialCached "script.html" . }}
-	{{ else }}
+	{{ else }} -->
 	{{ partial "footer.html" . }}
 	{{ partial "script.html" . }}
-	{{ end }}
+<!-- 	{{ end }} -->
 </body>
 
 </html>
